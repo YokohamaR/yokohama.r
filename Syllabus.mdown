@@ -1,0 +1,12 @@
+Syllabus
+==========
+
+## Day 1: install and setup
+* setup 
+
+## Day 2: read files
+* read .csv, .txt format files
+* read Windows excel format file
+* read other format files
+
+## 

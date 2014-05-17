@@ -27,7 +27,7 @@ Rおよび統計解析についての知識共有、技術向上を目的とし�
 
 - Issues -> https://github.com/YokohamaR/yokohama.r/issues/1
 - 登録フォーム -> http://goo.gl/iNRzzA
-- E-mail -> suika1127(a)gmail.com
+- E-mail -> suika1127(at)gmail.com
 
 ## 教科書候補
 
@@ -37,4 +37,4 @@ Rおよび統計解析についての知識共有、技術向上を目的とし�
 
 ## 連絡先
 
-要望や不明な点がありましたら@uriboまたはsuika1127(a)gmail.com まで。
+要望や不明な点がありましたら[@uribo](https://github.com/uribo)またはsuika1127(at)gmail.com まで。
