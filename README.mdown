@@ -1,7 +1,7 @@
 Yokohama.R
 =====
 
-<img src="https://raw.github.com/YokohamaR/yokohama.r/master/images/yokohamarIcon.png" alt=yokohama.r logo" width="140px">
+<img src="https://raw.github.com/YokohamaR/yokohama.r/master/images/yokohamarIcon.png" alt=yokohama.r logo" width="140px"  align="right">
 
 横浜R道場（Yokohama.R）は横浜国立大学生態学分野の研究室で行っている、統計解析環境「R」を使う人向けのコミュニティです。
 
@@ -9,7 +9,7 @@ Rおよび統計解析についての知識共有、技術向上を目的とし�
 
 ## 予定
 
-初回はR, RStudioのインストールから、Rの操作。簡単な説明。５月中にできれば...。
+初回はR, RStudioのインストールから、Rの操作。簡単な説明。<del>５月中にできれば...。</del>
 
 以降、
 
@@ -18,6 +18,8 @@ Rおよび統計解析についての知識共有、技術向上を目的とし�
 * 参加者に...
     * 解析手法の紹介してもらう
     * 便利な関数、面白いパッケージを紹介してもらう
+    * こういうことしました、できました
+
 
 とかなんとか。
 
