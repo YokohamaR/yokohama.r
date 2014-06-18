@@ -1,12 +1,19 @@
 Yokohama.R
 =====
 
-<img src="https://raw.github.com/YokohamaR/yokohama.r/master/images/yokohamarIcon.png" alt=yokohama.r logo" width="140px"  align="right">
+<img src="https://raw.github.com/YokohamaR/yokohama.r/master/images/yokohamarIcon.png" alt="yokohama.r logo" width="140px"  align="right">
 
 横浜R道場（Yokohama.R）は横浜国立大学生態学分野の研究室で行っている、統計解析環境「R」を使う人向けのコミュニティです。
 
 Rおよび統計解析についての知識共有、技術向上を目的としています。開催は不定期です。
 
+## 目標・目的	
+
+* 自らのデータを解析する際に必要な統計等に関する知識を学ぶ
+* 再現性のある研究、を可能にする
+* 研究発表、学術論文で使用できる図を作成する
+
+* * *
 ## 予定
 
 初回はR, RStudioのインストールから、Rの操作。簡単な説明。<del>５月中にできれば...。</del>
@@ -20,22 +27,25 @@ Rおよび統計解析についての知識共有、技術向上を目的とし�
     * 便利な関数、面白いパッケージを紹介してもらう
     * こういうことしました、できました
 
-
 とかなんとか。
 
 ## 参加確認
 
 必須ではありませんが、場所などの確保のために参加人数を把握のため、以下の方法で参加表明をお願いします。
 
-- Issues -> https://github.com/YokohamaR/yokohama.r/issues/1
-- 登録フォーム -> http://goo.gl/iNRzzA
-- E-mail -> suika1127(at)gmail.com
+* Issues -> https://github.com/YokohamaR/yokohama.r/issues/1
+* 登録フォーム -> http://goo.gl/iNRzzA
+* E-mail -> suika1127(at)gmail.com
 
 ## 教科書候補
 
 [候補](https://github.com/YokohamaR/yokohama.r/wiki/bookshelf)
 
 いい本があれば教えてください。随時募集(一つの本というよりは必要に応じて読む、という感じに)。
+
+## slide
+
+* http://yokohamar.github.io/Welcome-to-Yokohama.R/#/
 
 ## 連絡先
 
