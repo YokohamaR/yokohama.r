@@ -3,9 +3,11 @@ Yokohama.R
 
 <img src="https://raw.github.com/YokohamaR/yokohama.r/master/images/yokohamarIcon.png" alt="yokohama.r logo" width="140px"  align="right">
 
-横浜R道場（Yokohama.R）は横浜国立大学生態学分野の研究室で行っている、統計解析環境「R」を使う人向けのコミュニティです。
+横浜R道場（Yokohama.R）は横浜国立大学生態学分野の研究室で行っている、統計解析環境「[R](http://cran.r-project.org/)」を使う人向けのコミュニティです。
 
 Rおよび統計解析についての知識共有、技術向上を目的としています。開催は不定期です。
+
+GitHubにて、使用したスライドや資料、スクリプトなどを公開していく予定です。
 
 ## 目標・目的	
 
@@ -31,19 +33,17 @@ Rおよび統計解析についての知識共有、技術向上を目的とし�
 
 ### Yokohama.R#1
 
-| Topic | Speaker |
-|-------|---------|
-| Yokohama.R開催の趣旨説明 | @uribo |
-| Rいろはにほへと: インストールから簡単な処理まで | @uribo |
-| Rのない世界とRのある世界の話 | |
-| 👍RStudio使おうよ！👍 | @uribo | 
+| Topic | Slide | Speaker |
+|-------|-------|---------|
+| Yokohama.R開催の趣旨説明 | [link](http://yokohamar.github.io/Welcome-to-Yokohama.R/) | [@uribo](https://github.com/uribo) |
+| Rのない世界とRのある世界の話 | [link](http://yokohamar.github.io/why-use-r/) | [@uribo](https://github.com/uribo) |
+| Rいろはにほへと: インストールから簡単な処理まで | [link](http://yokohamar.github.io/introduction-to-r/) | [@uribo](https://github.com/uribo) |
+| 👍RStudio使おうよ！👍 | [link](http://yokohamar.github.io/rstudio-overview/) | [@uribo](https://github.com/uribo) |
 
 ## 参加確認
 
 必須ではありませんが、場所などの確保のために参加人数を把握のため、以下の方法で参加表明をお願いします。
 
-* Issues -> https://github.com/YokohamaR/yokohama.r/issues/1
-* 登録フォーム -> http://goo.gl/iNRzzA
 * E-mail -> suika1127(at)gmail.com
 
 ## 教科書候補
@@ -54,7 +54,10 @@ Rおよび統計解析についての知識共有、技術向上を目的とし�
 
 ## slide
 
-* http://yokohamar.github.io/Welcome-to-Yokohama.R/#/
+* http://yokohamar.github.io/Welcome-to-Yokohama.R/
+* http://yokohamar.github.io/introduction-to-r/
+* http://yokohamar.github.io/why-use-r/
+* http://yokohamar.github.io/rstudio-overview/
 
 ## 連絡先
 

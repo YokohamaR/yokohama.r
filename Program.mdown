@@ -1,0 +1,17 @@
+Yokohama.R Program
+======
+
+## Future
+
+### Yokohama.R#1
+
+Date : 2014-06-30 (Mon)
+Place: 16:00-
+Time :  
+
+| Topic | Slide | Speaker |
+|-------|-------|---------|
+| Yokohama.R開催の趣旨説明 | [link](http://yokohamar.github.io/Welcome-to-Yokohama.R/) | [@uribo](https://github.com/uribo) |
+| Rのない世界とRのある世界の話 | [link](http://yokohamar.github.io/why-use-r/) | [@uribo](https://github.com/uribo) |
+| Rいろはにほへと: インストールから簡単な処理まで | [link](http://yokohamar.github.io/introduction-to-r/) | [@uribo](https://github.com/uribo) |
+| 👍RStudio使おうよ！👍 | [link](http://yokohamar.github.io/rstudio-overview/) | [@uribo](https://github.com/uribo) |
