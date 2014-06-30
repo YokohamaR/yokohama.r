@@ -3,20 +3,34 @@ Yokohama.R Program
 
 ## Future
 
+### Yokohama.R#2
+
+Date : ---
+Place: 16:00-
+Time : Room 101
+
+| Topic | Slide | Speaker |
+|-------|-------|---------|
+| Rのググり方 | link | |
+| 日本語でおｋなRの設定 | link | |
+| 👍RStudio使おうよ！👍 | [link](http://yokohamar.github.io/rstudio-overview/) | [@uribo](https://github.com/uribo) |
+
+### Yokohama.R#3
+
+Date : ---
+Place: 16:00-
+Time : Room 101
+
+## Past
+
 ### Yokohama.R#1
 
 Date : 2014-06-30 (Mon)
-Place: 16:00-
-Time :  
+Place: 16:00-18:30 
+Time : Room 101
 
 | Topic | Slide | Speaker |
 |-------|-------|---------|
 | Yokohama.R開催の趣旨説明 | [link](http://yokohamar.github.io/Welcome-to-Yokohama.R/) | [@uribo](https://github.com/uribo) |
-| Rのない世界とRのある世界の話 | [link](http://yokohamar.github.io/why-use-r/) | [@uribo](https://github.com/uribo) |
-| Rいろはにほへと: インストールから簡単な処理まで | [link](http://yokohamar.github.io/introduction-to-r/) | [@uribo](https://github.com/uribo) |
-
-## Yokohama.R#2
-
-| Topic | Slide | Speaker |
-|-------|-------|---------|
-| 👍RStudio使おうよ！👍 | [link](http://yokohamar.github.io/rstudio-overview/) | [@uribo](https://github.com/uribo) |
+| Rいろはにほへと: インストールから簡単な処理まで | [link](http://yokohamar.github.io/introduction-to-r/index.html) | [@uribo](https://github.com/uribo) |
+| Rいろはにほへと: RStudioを使った実践 | [link](http://yokohamar.github.io/introduction-to-r/index2.html) | [@uribo](https://github.com/uribo) |
