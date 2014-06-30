@@ -1,3 +1,6 @@
+#########################################
+# welcome to yokohama.r
+######################################### 
 
 ## ----plot.demo1, eval=FALSE,echo=FALSE-----------------------------------
 ## pairs(iris[1:4], main="Edgar Anderson's Iris Data", pch=21, bg = c("red", "green3", "blue")[unclass(iris$Species)])
@@ -43,14 +46,9 @@
 ##       col.main = "blue", col.lab = gray(.8),
 ##       cex.main = 1.2, cex.lab = 1.0, font.main = 4, font.lab = 3)
 
-
-
-## ----, global_option, include=FALSE--------------------------------------
-library(knitr)
-opts_chunk$set(
-  warning=FALSE,
-  message=FALSE)
-
+#########################################
+# introduction r part1
+#########################################
 
 ## ------------------------------------------------------------------------
 1 + 3
@@ -104,14 +102,9 @@ oneway.test(iris$Sepal.Length ~ iris$Specie)
 ##   Petal.Length ~ Sepal.Length | Species,
 ##   data=iris)
 
-
-
-## ----, global_option, include=FALSE--------------------------------------
-library(knitr)
-opts_chunk$set(
-  warning=FALSE,
-  message=FALSE)
-
+#########################################
+# introduction r part2
+#########################################
 
 ## ------------------------------------------------------------------------
 1 + 3
@@ -142,7 +135,7 @@ data(iris)
 
 
 ## ----, eval=FALSE--------------------------------------------------------
-## png("ex_iris_plot") # ファイル名
+## png("ex_iris_plot.png") # ファイル名
 ## plot(
 ##   iris$Sepal.Length, iris$Petal.Length,
 ##   col=c("royal blue", "green", "orange")[iris$Species],
