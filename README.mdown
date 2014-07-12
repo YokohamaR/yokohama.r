@@ -25,13 +25,16 @@ GitHubにて、使用したスライドや資料、スクリプトなどを公�
 
 とかなんとか。
 
-### Yokohama.R#1
+### Yokohama.R#2
+
+Date: 2014-07-15?
 
 | Topic | Slide | Speaker |
 |-------|-------|---------|
-| Yokohama.R開催の趣旨説明 | [link](http://yokohamar.github.io/Welcome-to-Yokohama.R/) | [@uribo](https://github.com/uribo) |
-| Rいろはにほへと: インストールから簡単な処理まで | [link](http://yokohamar.github.io/introduction-to-r/index.html) | [@uribo](https://github.com/uribo) |
-| Rいろはにほへと: RStudioを使った実践 | [link](http://yokohamar.github.io/introduction-to-r/index2.html) | [@uribo](https://github.com/uribo) |
+| Rのググり方 | link | |
+| 日本語でおｋなRの設定 | link | |
+| 👍RStudio使おうよ！👍 | [link](http://yokohamar.github.io/rstudio-overview/) | [@uribo](https://github.com/uribo) |
+
 
 今後の予定や過去のプログラムは[こちら](Program.mdown)をご覧ください
 
