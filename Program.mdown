@@ -34,3 +34,7 @@ Time : Room 101
 | Yokohama.R開催の趣旨説明 | [link](http://yokohamar.github.io/Welcome-to-Yokohama.R/) | [@uribo](https://github.com/uribo) |
 | Rいろはにほへと: インストールから簡単な処理まで | [link](http://yokohamar.github.io/introduction-to-r/index.html) | [@uribo](https://github.com/uribo) |
 | Rいろはにほへと: RStudioを使った実践 | [link](http://yokohamar.github.io/introduction-to-r/index2.html) | [@uribo](https://github.com/uribo) |
+
+![](https://dl.dropbox.com/s/yp27bdj1be4qqxi/yokohamar1-1.jpg)
+
+![](https://dl.dropbox.com/s/3kvipvp97xr1bf0/yokohamar1-2.jpg)
